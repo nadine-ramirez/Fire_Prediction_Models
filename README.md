@@ -1,2 +1,2 @@
 # Fire_Prediction_Models
-Two models one based off of current red flag warning alerts and another one based off historical data to predict wild fire progression in California.
+The first model will determine if the alert is a red flag warning using XGBoost. The second model uses historical data to predict a fire in the location given the coordinates of such location. 
